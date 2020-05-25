@@ -187,6 +187,8 @@ a.homelink:hover{
 
 /** FOOTER **/
 #footer{
+	font-family: Vazir;
+	width: 100%;
 	width:100%;
 	overflow: hidden;
 	position: relative;
