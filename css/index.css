@@ -11,8 +11,18 @@
 	font-weight: 700;
 	src: url(font/OpenSans-Bold.ttf) format('truetype');
 }*/
+@font-face {
+	font-family: 'Vazir';
+	src: url('fonts/Vazir.eot');
+	src: url('fonts/Vazir.eot?#iefix') format('embedded-opentype'), 
+		   url('fonts/Vazir.woff2') format('woff2'), 
+		   url('fonts/Vazir.woff') format('woff'), 
+		   url('fonts/Vazir.ttf')  format('truetype');
+  }
 
 body{
+	font-family: Vazir;
+	direction:rtl;
 	margin:0;
 	background: #fff;
 	font-family: 'Open Sans';
@@ -35,6 +45,8 @@ a.homelink:hover{
 
 /** HEADER **/
 #header{
+	font-family: Vazir;
+	direction:rtl;
 	
 	width:100%;
 
@@ -98,6 +110,7 @@ a.homelink:hover{
 
 /** CONTENT **/
 #content{
+	font-family: Vazir;
 	width: 100%;
 	max-width:800px;
 	margin:0 auto;
@@ -149,10 +162,12 @@ a.homelink:hover{
 }
 #content > .section{
 	/*font-weight: 700;*/
+	font-family: Vazir;
+	direction:rtl;
 	font-size: 25px;
 	clear:both;
 	text-align: center;
-	letter-spacing: 10px;
+	letter-spacing: 0px;
 	margin-top: 40px;
 	margin-bottom: 25px;
 }
