@@ -1,5 +1,6 @@
-### [Nicky Case's website](http://ncase.me)
+<p dir='rtl' align='right'><strong>جایی برای ترجمهٔ‌های فارسی نیکی</strong></p>
+<p dir='rtl' align='right'>مجموعه‌ای از راهنماهای تعاملی</p>
 
-Minimalist design for a static website. Not much to it. Good.
+<p dir='rtl' align='right'><strong><a href="http://creativecommons.org/publicdomain/zero/1.0/">شرایط حق استفادهٔ عمومی</a></p>
 
-All code here is dedicated to the public domain, under [CC Zero](http://creativecommons.org/publicdomain/zero/1.0/).
+
